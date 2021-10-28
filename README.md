@@ -17,5 +17,3 @@ cd 到 demo 目录，执行 `npm install` 或者 `yarn`
 
 ## 6. 运行
 执行 `npm run dev`
-
-## 7. 填写
